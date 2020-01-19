@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/sistema-horas-proto/precache-manifest.556df502bcafaed7dbfd1d49ba83444b.js"
+  "/sistema-horas-proto/precache-manifest.8d497f13af3472913d1d279f39628c06.js"
 );
 
 self.addEventListener('message', (event) => {

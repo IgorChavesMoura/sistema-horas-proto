@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b89a6ddfd0a94c24f21f51d0e706e930",
+    "revision": "267c48f2b39526575709fb872c20f717",
     "url": "/sistema-horas-proto/index.html"
   },
   {
-    "revision": "22f257f8605e06d234ac",
+    "revision": "5f813846408ca76d2924",
     "url": "/sistema-horas-proto/static/css/main.ce775327.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sistema-horas-proto/static/js/2.8551b5a1.chunk.js.LICENSE"
   },
   {
-    "revision": "22f257f8605e06d234ac",
-    "url": "/sistema-horas-proto/static/js/main.84488a30.chunk.js"
+    "revision": "5f813846408ca76d2924",
+    "url": "/sistema-horas-proto/static/js/main.4ee5d56e.chunk.js"
   },
   {
     "revision": "d12e8c46c13fc7cf562b",
